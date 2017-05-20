@@ -1,0 +1,23 @@
+{
+  "name": "soundcloud_cli",
+  "version": "0.0.1",
+  "description": "CLI tool for listening to SoundCloud ",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darthneel/soundcloud_cli.git"
+  },
+  "keywords": [
+    "soundclound",
+    "cli"
+  ],
+  "author": "@darthneel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darthneel/soundcloud_cli/issues"
+  },
+  "homepage": "https://github.com/darthneel/soundcloud_cli#readme"
+}
